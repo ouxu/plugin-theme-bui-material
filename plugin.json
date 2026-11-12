@@ -1,0 +1,13 @@
+{
+  "name": "material",
+  "displayName": "Material",
+  "version": "1.0.0",
+  "description": "βui's Material theme: blue-grey chrome, lime accents and purple keywords",
+  "author": "ouxu",
+  "mayoi": ">=0.19.0",
+  "contributes": {
+    "themes": [
+      { "id": "material.material", "label": "Material", "path": "material.json", "dark": true }
+    ]
+  }
+}
